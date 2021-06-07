@@ -13,7 +13,7 @@ from advertorch.utils import NormalizeByChannelMeanStd
 
 
 __all__ = ['setup_model_dataset', 'setup_model_dataset_PIE',
-            '']
+            'forget_times', 'sorted_examples', 'split_class_sequence', 'blance_dataset_sequence']
 
 
 
