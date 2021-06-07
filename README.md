@@ -16,11 +16,13 @@ The lottery ticket hypothesis (LTH) reveals the existence of winning tickets (sp
 
 ## Prerequisites
 
+```
 Pytorch >= 1.4
 
 torchvision
 
 advertorch
+```
 
 ## Usage
 
