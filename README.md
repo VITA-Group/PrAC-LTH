@@ -54,7 +54,7 @@ python -u main_PrAC_imp.py \
 	
 ```
 
-#### Train subnetworks
+#### Train subnetworks 
 
 ```
 python -u main_train.py \
@@ -63,8 +63,8 @@ python -u main_train.py \
 	--arch res20s \
 	--batch_size 128 \
 	--lr 0.1 \
-	--init_dir PrAC_lt_cifar10_res20s/1checkpoint.pth.tar \
-	--mask_dir PrAC_lt_cifar10_res20s/1checkpoint.pth.tar \
+	--init_dir PrAC_lt_cifar10_res20s/1checkpoint.pth.tar \ 
+	--mask_dir PrAC_lt_cifar10_res20s/1checkpoint.pth.tar \ # sparsity=20%
 	--save_dir retrain_PrAC_lt_cifar10_res20s/1
 ```
 
