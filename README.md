@@ -77,6 +77,13 @@ python -u main_train.py \
 ## Citation
 
 ```
-
+@misc{zhang2021efficient,
+      title={Efficient Lottery Ticket Finding: Less Data is More}, 
+      author={Zhenyu Zhang and Xuxi Chen and Tianlong Chen and Zhangyang Wang},
+      year={2021},
+      eprint={2106.03225},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
 ```
 
