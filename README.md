@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-Codes for this paper Efficient Lottery Ticket Finding: Less Data is More. [ICML 2021]
+Codes for this paper [Efficient Lottery Ticket Finding: Less Data is More.](http://arxiv.org/abs/2106.03225) [ICML 2021]
 
 Zhenyu Zhang\*, Xuxi Chen\*, Tianlong Chen\*, Zhangyang Wang
 
